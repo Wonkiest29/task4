@@ -367,15 +367,15 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## Img
 Get
-![create](/img/1.png)
+![create](/doc/1.png)
 Create
-![create](/img/2.png)
+![create](/doc/2.png)
 Get list
-![create](/img/3.png)
+![create](/doc/3.png)
 Delete
-![create](/img/4.png)
+![create](/doc/4.png)
 Update
-![create](/img/5.png)
+![create](/doc/5.png)
 ## 📄 License
 
 This project was created for educational purposes.
